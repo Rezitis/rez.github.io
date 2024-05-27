@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(120deg, #f6d365, #fda085); /* Cozy gradient background */
+    background: linear-gradient(120deg, #f6d365, #fda085);
     margin: 0;
     font-family: Arial, sans-serif;
     overflow: hidden;
@@ -58,3 +58,6 @@ button {
     font-size: 24px;
     color: #ffffff;
 }
+   
+    
+  
