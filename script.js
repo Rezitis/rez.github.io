@@ -25,7 +25,7 @@ function openGift() {
     
     setTimeout(() => {
         giftBox.style.display = 'none';
-        document.getElementById('message').innerText = "στειλε βυζ"; // Update message content
+        document.getElementById('message').innerText = "στειλε βυζ";
         document.getElementById('message').classList.remove('hidden');
     }, 1000);
 }
